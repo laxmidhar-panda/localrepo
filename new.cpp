@@ -6,5 +6,6 @@ int main()
     int a;
     cin>>a;
     cout<<"Hehe I am ur life ";
+    cout<<"Hehe I am ur death";
     return 0;
 }
